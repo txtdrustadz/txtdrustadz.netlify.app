@@ -3,13 +3,11 @@ import { Link } from "gatsby"
 
 const Header = ({ siteTitle }) => (
   <header>
-    <Link
-      to="/"
-      className="text-xl"
-    >
-      {siteTitle}
-    </Link>
-
+    <h1>
+      <Link to="/" className="text-xl text-gray-600">
+        {siteTitle}
+      </Link>
+    </h1>
   </header>
 )
 

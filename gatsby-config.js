@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
+    title: `txtdrustadz - update your 🧠`,
     description: `Di tengah banjir informasi, kami menyaring berita dari berbagai sumber untuk menyajikan informasi terkini dengan perspektif Islam.`,
     author: `@txtdrustadz`,
     siteUrl: `https://txtdrustadz.netlify.app/`,
