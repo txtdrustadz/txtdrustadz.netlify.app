@@ -22,9 +22,9 @@
     "tailwindcss": "^3.3.5"
   },
   "keywords": [
-    "gatsby"
+    "gatsby, txtdrustadz, news"
   ],
-  "license": "0BSD",
+  "license": "MIT",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -36,9 +36,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/txtdrustadz/txtdrustadz.netlify.app"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/txtdrustadz/txtdrustadz.netlify.app/issues"
   }
 }
